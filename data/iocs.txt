@@ -1,0 +1,8 @@
+# Suspicious IP & Domain Indicators (IoCs)
+185.220.101.5
+8.8.8.8
+192.168.1.1
+194.26.29.112
+malicious-c2-update.com
+google.com
+verify-bank-security-login.xyz
